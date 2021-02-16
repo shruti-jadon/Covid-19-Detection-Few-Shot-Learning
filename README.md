@@ -15,6 +15,25 @@ We have used following approaches for our experiments.
 
 ## If you found our work useful, please consider citing us.
 Link: https://www.researchgate.net/publication/349008732_COVID-19_detection_from_scarce_chest_X-Ray_image_data_using_few-shot_deep_learning_approach
+```
+@ARTICLE{2021arXiv210206285J,
+       author = {{Jadon}, Shruti},
+        title = "{COVID-19 detection from scarce chest x-ray image data using deep learning}",
+      journal = {arXiv e-prints},
+     keywords = {Electrical Engineering and Systems Science - Image and Video Processing, Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning},
+         year = 2021,
+        month = feb,
+          eid = {arXiv:2102.06285},
+        pages = {arXiv:2102.06285},
+archivePrefix = {arXiv},
+       eprint = {2102.06285},
+ primaryClass = {eess.IV},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210206285J},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+```
 
 
 ## Embeddings Visualization of Covid-19 CT scan dataset
