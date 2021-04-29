@@ -1,5 +1,5 @@
 # Covid-19-Detection
-This repository is implementation of Covid-Classification models using deep learning approaches. Paper Link(https://www.researchgate.net/publication/349008732_COVID-19_detection_from_scarce_chest_X-Ray_image_data_using_few-shot_deep_learning_approach)
+This repository is implementation of Covid-Classification models using deep learning approaches. [Paper Link] (https://arxiv.org/abs/2102.06285)
 
 We have used following approaches for our experiments.
 1. Logistic Regression (Baseline)
