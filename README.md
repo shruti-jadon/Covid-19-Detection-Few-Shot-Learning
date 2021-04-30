@@ -1,4 +1,4 @@
-# Covid-19-Detection
+# Covid-19-Detection using Metrics based Few-Shot Learning
 This repository is implementation of Covid-Classification models using deep learning approaches. [Paper Link] (https://arxiv.org/abs/2102.06285)
 
 We have used following approaches for our experiments.
