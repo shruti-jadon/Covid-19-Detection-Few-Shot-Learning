@@ -1,5 +1,5 @@
 # Covid-19-Detection using Metrics based Few-Shot Learning
-This repository is implementation of Covid-Classification models using deep learning approaches. [Paper Link] (https://arxiv.org/abs/2102.06285)
+This repository is implementation of Covid-Classification models using deep learning approaches. [Paper Link] (https://doi.org/10.1117/12.2581496)
 
 We have used following approaches for our experiments.
 1. Logistic Regression (Baseline)
@@ -14,25 +14,22 @@ We have used following approaches for our experiments.
 2. https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 
 ## If you found our work useful, please consider citing us.
-Link: https://www.researchgate.net/publication/349008732_COVID-19_detection_from_scarce_chest_X-Ray_image_data_using_few-shot_deep_learning_approach
+Link: https://doi.org/10.1117/12.2581496
 ```
-@ARTICLE{2021arXiv210206285J,
-       author = {{Jadon}, Shruti},
-        title = "{COVID-19 detection from scarce chest x-ray image data using deep learning}",
-      journal = {arXiv e-prints},
-     keywords = {Electrical Engineering and Systems Science - Image and Video Processing, Computer Science - Computer Vision and Pattern Recognition, Computer Science - Machine Learning},
-         year = 2021,
-        month = feb,
-          eid = {arXiv:2102.06285},
-        pages = {arXiv:2102.06285},
-archivePrefix = {arXiv},
-       eprint = {2102.06285},
- primaryClass = {eess.IV},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2021arXiv210206285J},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@inproceedings{10.1117/12.2581496,
+author = {Shruti Jadon},
+title = {{COVID-19 detection from scarce chest x-ray image data using few-shot deep learning approach}},
+volume = {11601},
+booktitle = {Medical Imaging 2021: Imaging Informatics for Healthcare, Research, and Applications},
+editor = {Thomas M. Deserno and Brian J. Park},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {161 -- 170},
+keywords = {Deep Learning, Classification, Few-shot Learning, Less data, COVID-19},
+year = {2021},
+doi = {10.1117/12.2581496},
+URL = {https://doi.org/10.1117/12.2581496}
 }
-
-
 ```
 
 
